@@ -84,9 +84,10 @@ Thank you for your time!
 
 So, here’s a bad example I saw going across Facebook a month or two ago. A survey came out a bit ago saying that millennials are much more likely to want people to be in traditional gender roles in families (that dip right around 2014 on the left), which many media articles made great hay out of.
 
-### Another bonus slide
-
-A few links to look at.
 But many folks found some real problems in the study--this dip reflects only 66 men, and if they had bothered to plot error bars they would be bigger than the observed dip. Some folks reran the numbers with larger bins (young Americans being 18-34 instead of 18-25) and the effect pretty much disappears.
 
 So, hashtag-millennials, amirite?
+
+### Another bonus slide
+
+A few links to look at.
